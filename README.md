@@ -15,11 +15,12 @@ This github repository will walk you through setting up your Git and GitHub acco
 - [X] Cloning a Repository  
 - [X] Making Changes to the Repository  
 - [x] Commiting Changes Locally  
-- [ x] Moving Changes to GitHub   
-- [ ] Standard Work Flow
+- [x] Moving Changes to GitHub   
+- [x] Standard Work Flow
+
+I finished!
 
 ---
-x
 ## View this README
 First step complete! Welcome and good luck over the next steps!  
 If you run into issues please visit the Hub's discussion forums or submit a ticket for assistance.
